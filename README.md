@@ -6,7 +6,7 @@ For grading purposes, and in the interest of time, `Cat.java` and a skeleton ver
 Methods I implemented are either private or are marked with the `TODO: ADD YOUR CODE HERE` comment and are explained below.
 `Cat.java` and `CatCafe.java` were the only files submitted for evaluation, all other files were used for testing.
 
-## About
+## Overview
 
 The idea for this project was to create an employee database for a cat cafe in which all the employees are cats.
 In order to learn and explore different types of data structures, the database was implemented as a binary search tree and max heap.
